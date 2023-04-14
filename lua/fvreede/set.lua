@@ -23,4 +23,4 @@ vim.opt.colorcolumn = "120"
 
 vim.g.mapleader = " "
 
-vim.cmd[[colorscheme tokyonight]]
+--vim.cmd[[colorscheme tokyonight]]

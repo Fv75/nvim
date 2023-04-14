@@ -73,9 +73,9 @@ use {
 
 
 ------tokyo night theme-------
-use 'folke/tokyonight.nvim'
+--use 'folke/tokyonight.nvim'
 
 ------nightfox theme-------
---use "EdenEast/nightfox.nvim"
+use "EdenEast/nightfox.nvim"
 end)
 
